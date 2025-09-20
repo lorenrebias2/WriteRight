@@ -30,7 +30,7 @@ const Create = () => {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.header}>New Writing Task</Text>
+      <Text style={styles.header}>New Writing Tasks</Text>
       <Text style={styles.subtitle}>Set your goal and start writing</Text>
 
       <View style={styles.form}>
